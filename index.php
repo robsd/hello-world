@@ -1,1 +1,1 @@
-<?php echo "The date: " . date(); ?>
+<?php echo "Today is " . date('l'); ?>
